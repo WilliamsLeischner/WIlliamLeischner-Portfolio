@@ -1,17 +1,25 @@
-## Welcome to William Scott Leischner’s ePortfolio
+Welcome to GitHub Pages
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Syntax highlighted code block
 
-My [Professional Assessment]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx).
+# Header 1
+## Header 2
+### Header 3
 
-My [Code Review]:(https://studio.youtube.com/video/XtmYikr1l18/edit)
+- Bulleted
+- List
 
-Artifact [Authenticated User]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Authenticated_User).
+1. Numbered
+2. List
 
-Authenticated User[Narrative]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Authenticated_User/William_Leischner_CS499_MileStone_Two_Narrative.docx).
-	 
-Artifact [Data Structures]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Data_Structures).
+**Bold** and _Italic_ and `Code` text
 
-Data Structures [Narrative]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Data_Structures/William_Leischner_CS499_MileStone_Three_Narrrative.docx).
-
-Artifact [Stocks]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Stocks).
-
-Stocks[Narrative]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Stocks/Willian_Leischner_CS499_Milestone_Four_Narrative.docx)
+[Link](url) and ![Image](src)
+For more details see GitHub Flavored Markdown.
+Jekyll Themes
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+Support or Contact
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
