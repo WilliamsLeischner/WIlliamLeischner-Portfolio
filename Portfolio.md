@@ -2,6 +2,8 @@
 
 My [Professional Assessment]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx).
 
+My [Code Review]:(https://studio.youtube.com/video/XtmYikr1l18/edit)
+
 Artifact [Authenticated User]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Authenticated_User).
 
 Authenticated User[Narrative]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Authenticated_User/William_Leischner_CS499_MileStone_Two_Narrative.docx).
