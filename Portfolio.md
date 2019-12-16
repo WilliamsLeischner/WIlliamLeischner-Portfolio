@@ -3,7 +3,7 @@
 My [Professional Assessment]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx).
 
 Artifact [Authenticated User]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Authenticated_User).
-Authenticated User[Narrative]: (https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Authenticated_User/William_Leischner_CS499_MileStone_Two_ Narrative .docx).
+Authenticated User[Narrative]: (: https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/Authenticated_User/William_Leischner_CS499_MileStone_Two_ Narrative .docx).
 	 
 Artifact [Data Structures]:(https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/tree/master/Data_Structures).
 
