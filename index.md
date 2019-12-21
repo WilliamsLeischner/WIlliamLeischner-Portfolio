@@ -1,4 +1,5 @@
 Welcome to William Scott Leischner's ePortfolio
+<p><a href=" https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx">Click here for implementation details</a></p>
 
 My Professional Assessment:  https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx
 
