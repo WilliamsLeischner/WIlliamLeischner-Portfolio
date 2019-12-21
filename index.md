@@ -1,6 +1,6 @@
 Welcome to William Scott Leischner's ePortfolio
 
-<p><a href=" https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx">Professional Assessment </a></p>
+<p><a href="https://github.com/WilliamsLeischner/WIlliamLeischner-Portfolio/blob/master/William_Leischner_Professional_Assessment.docx">Professional Assessment </a></p>
 
 <p><a href="https://www.youtube.com/watch?v=XtmYikr1l18"> Code Review </a></p>
 
